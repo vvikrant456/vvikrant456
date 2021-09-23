@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail:-vvikrant456@gmail.com, [Linkedin - Vikas Kumar Vikrant](https://www.linkedin.com/in/vikas-kumar-vikrant-7a8992184/), [Instagram - vvikrant456](https://www.instagram.com/vvikrant_456/), [Facebook - Vikas](https://www.facebook.com/profile.php?id=100010904852030)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
+
+<img src ="https://github-readme-stats.vercel.app/api?username=vvikrant456&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
