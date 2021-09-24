@@ -1,4 +1,4 @@
-### Hi 👋, I'm Vikas Kumar Vikrant, currently pursuing B.Tech in CSE from NIT Silchar (Assam), batch(2020-24).
+### Hi 👋, I'm Vikas Kumar Vikrant, currently pursuing B.Tech in CSE from [NIT Silchar (Assam)](http://www.nits.ac.in/l), batch(2020-24).
 
 
 Here are some ideas to get you started:
