@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and Data science**
 
-- 💬 Ask me about **DSA,CP, and Web development.**
+- 💬 Ask me about **DSA,CP, Web development, and Data Science.**
 
 - 📫 How to reach me **vvikrant456@gmail.com**
 
@@ -12,6 +12,7 @@
 <a href="https://twitter.com/vvikrant456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvikrant456" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikas-kumar-vikrant-7a8992184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-kumar-vikrant-7a8992184/" height="30" width="40" /></a>
 <a href="https://instagram.com/v._vikrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v._vikrant" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/iamgru0t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamgru0t" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cfuser22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cfuser22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lcuser22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lcuser22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vvikrant456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vvikrant456" height="30" width="40" /></a>
