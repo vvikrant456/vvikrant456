@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Web Development and Data science**
+- 🌱 I’m currently learning **Web Development **
 
-- 💬 Ask me about **DSA,CP, Web development, and Data Science.**
+- 💬 Ask me about **DSA,CP, and Web development.**
 
 - 📫 How to reach me **vvikrant456@gmail.com**
 
