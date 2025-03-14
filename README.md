@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <!-- <h3 align="center">Engineering </h3> -->
 
-- 🌱 Experienced **Web Developer **
+- 🌱 **SDE-1 @Ericsson**
 
-- 💬 Ask me about **DSA,CP, and Web development.**
+- 💬 Ask me about **DSA, System Design and Networking**
 
 - 📫 How to reach me **vvikrant456@gmail.com**
 
