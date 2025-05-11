@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <!-- <h3 align="center">Engineering </h3> -->
 
-- 🌱 **SDE-1 @Ericsson**
+- 🌱 **Software Engineer @Visa, ex-SDE-1 @Ericsson**
 
 - 💬 Ask me about **DSA, System Design and Networking**
 
